@@ -5,7 +5,7 @@ var myVerb = "ran";
 var myAdjective = "big";
 var myAdverb = "quickly";
 var worldBlanks;
-worldBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb;
+worldBlanks = "My" + " " + myAdjective + " " + myNoun + " " + "is going to" + " " + myVerb + " " + "very" + " " + myAdverb;
 
     // Only change code above this line
 
